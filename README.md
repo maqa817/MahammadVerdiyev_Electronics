@@ -1,4 +1,15 @@
+
 # All_Electornic_Projects
+## Index  
+
+| #  | Topic | Link | Authors | Verified |
+|----|------|------|--------|----------|
+| 01 | Operational Amplifier — Comprehensive Guide | https://www.slideshare.net/slideshow/comprehensive-guide-to-operational-amplifiers-in-analog-electronics/287466422 | Muhammed | verified by: physics teacher azerbaijan Telman Askeraliyev – contact: LinkedIn · Instagram |
+| 02 | Voltage Divider Circuits — Theory & Implementation | https://www.slideshare.net/slideshow/voltage-divider-circuits-theory-and-practical-implementation/287240591 | Muhammed | verified by: physics teacher azerbaijan Telman Askeraliyev – contact: LinkedIn · Instagram |
+| 03 | DC Motor Directional Control via Polarity Inversion | https://www.academia.edu/165822962/DC_Motor_Directional_Control_via_Polarity_Inversion?source=swp_share | Muhammed | verified by: physics teacher azerbaijan Telman Askeraliyev – contact: LinkedIn · Instagram |
+| 04 | Inductor Fundamentals — Principles & Applications | https://www.slideshare.net/slideshow/inductor-fundamentals-principles-construction-and-applications-in-modern-electronics/286873535 | Muhammed | verified by: physics teacher azerbaijan Telman Askeraliyev – contact: LinkedIn · Instagram |
+| 05 | Series vs Parallel Circuit Analysis — Electronic Task | https://glaze-cuckoo-f03.notion.site/ELECTRONIC-TASK-Series-vs-Parallel-Circuit-Analysis-By-Hidayet-Hesenli-Ramal-Demirli-Nezrin-Serbe-32603a1c6703803cae98f449a4e151ca?source=copy_link | Muhammed | verified by: physics teacher azerbaijan Telman Askeraliyev – contact: LinkedIn · Instagram |
+| 06 | Capacitors — Structure and Functionality | https://www.slideshare.net/slideshow/capacitors-structure-and-functionality-pdf/286543198 | Muhammed | verified by: physics teacher azerbaijan Telman Askeraliyev – contact: LinkedIn · Instagram |
 1###
 Operational Amplifier - https://www.slideshare.net/slideshow/comprehensive-guide-to-operational-amplifiers-in-analog-electronics/287466422
 
