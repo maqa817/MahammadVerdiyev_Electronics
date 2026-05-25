@@ -1,0 +1,19 @@
+Inductor Fundamentals: Principles, Construction, and Applications in Modern Electronics
+A technical laboratory report on inductors — passive components that store energy in a magnetic field — covering electromagnetic principles, construction, core materials, key parameters, and applications across power and signal electronics.
+
+Authors: Hidayet Hesenli · Ramal Damirli · Mehemmed Verdiyev
+Verified by: Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Müəllimi)
+Contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ · https://www.instagram.com/physics_teacher_azerbaijan
+
+Topics Covered
+Inductor Fundamentals — a passive two-terminal device that opposes changes in current by storing energy in a surrounding magnetic field
+Faraday's Law & Back-EMF — a changing current induces a voltage: V_L = L · dI/dt; the polarity always opposes the change (Lenz's Law)
+Inductance Units — Henry (H), millihenry (mH), microhenry (μH); typical values range from nH in RF circuits to several H in power transformers
+Magnetic Flux — Φ = L · I; flux linkage is proportional to inductance and instantaneous current
+Energy Storage — W = ½ · L · I²; energy held in the magnetic field and returned to the circuit when current decreases
+Construction — a coil of insulated wire wound around a core; number of turns, core material, and geometry determine inductance
+Core Materials — Air core (stable, low L, suitable for high-frequency RF); Iron core (very high L, used in power transformers and line-frequency chokes); Ferrite core (moderate-to-high L, low core loss at switching frequencies); Toroidal (self-shielding, compact, used in power supply filters)
+Key Selection Parameters — DCR (DC resistance; lower improves efficiency), Saturation Current (maximum current before core saturates and L collapses), Q-factor (ratio of reactive to resistive impedance; higher means lower loss), SRF (self-resonant frequency above which parasitic capacitance dominates)
+Inductive Reactance — X_L = 2π · f · L; impedance rises linearly with frequency, making inductors natural high-frequency blockers
+Series & Parallel Inductors — L_series = L₁ + L₂; 1/L_parallel = 1/L₁ + 1/L₂ (assuming no mutual coupling)
+Applications — DC power supply filtering and ripple reduction, EMI chokes, LC resonant tank circuits, RF tuning, switch-mode converter energy transfer, signal transformers
