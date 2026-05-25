@@ -1,0 +1,17 @@
+Voltage Divider Circuits — Theory and Practical Implementation
+A technical laboratory report on voltage divider circuits — one of the most fundamental building blocks in electronics — covering theory, design, loaded behaviour, and practical applications.
+
+Authors: Hidayet Hesenli · Ramal Damirli · Mehemmed Verdiyev · Agshin Balayev · Farid Elekberov
+Verified by: Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Müəllimi)
+Contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ · https://www.instagram.com/physics_teacher_azerbaijan
+
+Topics Covered
+Voltage Divider Principle — two or more series resistors used to produce a precise fraction of the supply voltage
+Core Formula — V_out = V_in × R₂ / (R₁ + R₂); derivation from Ohm's Law and KVL
+Loaded vs Unloaded Divider — how connecting a load resistance pulls V_out below the theoretical value; when loading error becomes significant
+Practical Design Considerations — selecting resistor ratios, power ratings, and tolerance to meet output accuracy requirements
+Potentiometer as a Variable Divider — wiper contact provides a continuously adjustable V_out between 0 and V_in
+Sensor Integration — pairing a fixed resistor with a variable-resistance sensor (LDR, NTC thermistor, strain gauge) to convert a physical quantity into a voltage
+Biasing Networks — voltage dividers as base-bias networks in BJT amplifiers and gate-bias in MOSFET circuits
+Signal Attenuation — stepping high-voltage signals down to ADC-safe or logic-level ranges
+Practical Lab Measurements — measured vs theoretical V_out values, percentage error analysis, and observations
