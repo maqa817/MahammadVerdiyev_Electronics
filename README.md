@@ -29,12 +29,12 @@ published on SlideShare, Academia.edu, and Notion.
 
 | # | Topic | Platform | Authors | Link |
 |---|-------|----------|---------|------|
-| 01 | [Operational Amplifier](#01--operational-amplifier) | SlideShare | Hesenli · Damirli · **Verdiyev** · Elekberov | [→ View](https://www.slideshare.net/slideshow/comprehensive-guide-to-operational-amplifiers-in-analog-electronics/287466422) |
-| 02 | [Voltage Divider](#02--voltage-divider) | SlideShare | Hesenli · Damirli · **Verdiyev** · Balayev · Elekberov | [→ View](https://www.slideshare.net/slideshow/voltage-divider-circuits-theory-and-practical-implementation/287240591) |
-| 03 | [DC Motor Directional Control via Polarity Inversion](#03--dc-motor-directional-control-via-polarity-inversion) | Academia.edu | Hesenli · Damirli · **Verdiyev** | [→ View](https://www.academia.edu/165822962/DC_Motor_Directional_Control_via_Polarity_Inversion?source=swp_share) |
-| 04 | [Inductor Fundamentals](#04--inductor-fundamentals) | SlideShare | Hesenli · Damirli · **Verdiyev** | [→ View](https://www.slideshare.net/slideshow/inductor-fundamentals-principles-construction-and-applications-in-modern-electronics/286873535) |
-| 05 | [Series vs Parallel Circuit Analysis](#05--series-vs-parallel-circuit-analysis) | Notion | Hesenli · Demirli · **Verdiyev** · Serbetli | [→ View](https://glaze-cuckoo-f03.notion.site/ELECTRONIC-TASK-Series-vs-Parallel-Circuit-Analysis-By-Hidayet-Hesenli-Ramal-Demirli-Nezrin-Serbe-32603a1c6703803cae98f449a4e151ca?source=copy_link) |
-| 06 | [Capacitors: Structure and Functionality](#06--capacitors-structure-and-functionality) | SlideShare | Hesenli · Demirli · **Verdiyev** · Serbetli | [→ View](https://www.slideshare.net/slideshow/capacitors-structure-and-functionality-pdf/286543198) |
+| 01 | [Operational Amplifier](#01--operational-amplifier) | SlideShare | Mahammad | [→ View](https://www.slideshare.net/slideshow/comprehensive-guide-to-operational-amplifiers-in-analog-electronics/287466422) |
+| 02 | [Voltage Divider](#02--voltage-divider) | SlideShare | Mahammad  | [→ View](https://www.slideshare.net/slideshow/voltage-divider-circuits-theory-and-practical-implementation/287240591) |
+| 03 | [DC Motor Directional Control via Polarity Inversion](#03--dc-motor-directional-control-via-polarity-inversion) | Academia.edu | Mahammad | [→ View](https://www.academia.edu/165822962/DC_Motor_Directional_Control_via_Polarity_Inversion?source=swp_share) |
+| 04 | [Inductor Fundamentals](#04--inductor-fundamentals) | SlideShare | Mahammad  | [→ View](https://www.slideshare.net/slideshow/inductor-fundamentals-principles-construction-and-applications-in-modern-electronics/286873535) |
+| 05 | [Series vs Parallel Circuit Analysis](#05--series-vs-parallel-circuit-analysis) |Mahammad  | [→ View](https://glaze-cuckoo-f03.notion.site/ELECTRONIC-TASK-Series-vs-Parallel-Circuit-Analysis-By-Hidayet-Hesenli-Ramal-Demirli-Nezrin-Serbe-32603a1c6703803cae98f449a4e151ca?source=copy_link) |
+| 06 | [Capacitors: Structure and Functionality](#06--capacitors-structure-and-functionality) | SlideShare | Mahammad | [→ View](https://www.slideshare.net/slideshow/capacitors-structure-and-functionality-pdf/286543198) |
 
 ---
 
