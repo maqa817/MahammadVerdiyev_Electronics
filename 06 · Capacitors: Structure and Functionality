@@ -1,0 +1,19 @@
+Capacitors: Structure and Functionality
+An educational presentation on capacitors — passive components that store electrical energy in an electric field — covering physical structure, charging and discharging behaviour, types, key parameters, and applications across power and signal electronics.
+
+Authors: Hidayet Hesenli · Ramal Demirli · Mehemmed Verdiyev · Nezrin Serbetli
+Verified by: Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Müəllimi)
+Contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ · https://www.instagram.com/physics_teacher_azerbaijan
+
+Topics Covered
+What is a Capacitor — a passive two-terminal component that stores electrical energy in an electric field established between two conductive plates separated by a dielectric insulator
+Physical Structure — two conductive electrodes (plates) with a dielectric material (air, ceramic, polymer film, or oxide layer) between them; plate area, separation, and dielectric constant determine capacitance
+Charging Behaviour — when connected to a voltage source, conventional current flows into the positive plate and out of the negative plate; charge builds up until the capacitor voltage equals the source voltage; no steady-state DC current flows through the dielectric
+Discharging Behaviour — when a load is connected, stored charge flows out of the capacitor exponentially; discharge rate is governed by the RC time constant τ = R · C
+Capacitance Formula — C = ε · A / d (permittivity of dielectric × plate area ÷ plate separation); measured in Farads (F), microfarads (μF), nanofarads (nF), picofarads (pF)
+Energy Storage — W = ½ · C · V²; energy held in the electric field
+Capacitive Reactance — X_C = 1 / (2π · f · C); impedance decreases with increasing frequency — capacitors block DC and pass AC, with lower impedance at higher frequencies
+RC Time Constant — τ = R · C; time for a capacitor to charge to approximately 63.2% of the supply voltage or discharge to 36.8% of its initial value
+Capacitor Types — Ceramic (non-polarised, stable, compact; used for decoupling and high-frequency filtering); Electrolytic (polarised, large capacitance values; used for bulk energy storage and power supply smoothing); Film (non-polarised, low ESR, high precision; used for timing and audio); Tantalum (polarised, compact, stable; used for precision filtering in portable devices)
+Series & Parallel Capacitors — parallel: C_T = C₁ + C₂ + C₃ (total increases); series: 1/C_T = 1/C₁ + 1/C₂ + 1/C₃ (total decreases — opposite to resistors)
+Applications — power supply smoothing and ripple filtering, bypass and decoupling in digital circuits, RC timing circuits and oscillators, signal coupling (passing AC while blocking DC bias), motor start and run circuits, camera flash energy storage, audio crossover networks
