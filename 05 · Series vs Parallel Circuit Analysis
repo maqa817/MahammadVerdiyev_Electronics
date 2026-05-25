@@ -1,0 +1,19 @@
+ELECTRONIC TASK: Series vs Parallel Circuit Analysis
+A structured electronics task and analysis workspace covering the fundamental differences between series and parallel resistive circuits — from first principles through Kirchhoff's laws to practical measurement and real-world application.
+
+Authors: Hidayet Hesenli · Ramal Demirli · Mehemmed Verdiyev · Nezrin Serbetli
+Verified by: Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Müəllimi)
+Contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ · https://www.instagram.com/physics_teacher_azerbaijan
+
+Topics Covered
+Series Circuit Fundamentals — components connected end-to-end forming a single current path; the same current flows through every element
+Parallel Circuit Fundamentals — components connected between the same two nodes forming multiple current paths; the same voltage appears across every branch
+Kirchhoff's Voltage Law (KVL) — the algebraic sum of all voltages around any closed loop equals zero; used to analyse series voltage drops
+Kirchhoff's Current Law (KCL) — the sum of currents entering a node equals the sum leaving it; used to analyse parallel branch currents
+Total Resistance — series: R_T = R₁ + R₂ + R₃ (always greater than any single resistor); parallel: 1/R_T = 1/R₁ + 1/R₂ + 1/R₃ (always less than the smallest resistor)
+Voltage Distribution in Series — each resistor's share: V_n = V_total × R_n / R_total
+Current Distribution in Parallel — each branch's share: I_n = V / R_n (inversely proportional to branch resistance)
+Power Analysis — P = V · I = I²R = V²/R; total power equals the sum of individual element powers in both configurations
+Fault Behaviour — an open circuit in a series string breaks the entire circuit; an open branch in a parallel network leaves remaining branches unaffected
+Practical Lab Measurements — multimeter measurements of voltage, current, and resistance in both configurations; comparison of measured vs theoretical values and error analysis
+Real-World Applications — series: voltage dividers, fuse protection, series LED strings, battery cells in series for higher voltage; parallel: household mains wiring, battery banks for higher current, redundant power supplies
