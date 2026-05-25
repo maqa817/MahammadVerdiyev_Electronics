@@ -1,0 +1,17 @@
+Technical Laboratory Report: DC Motor Directional Control via Polarity Inversion
+A laboratory report on the principles and practical implementation of reversing a DC motor's direction of rotation by inverting the polarity of the voltage applied to its terminals — covering manual switching methods, H-bridge circuits, and protective considerations.
+
+Authors: Hidayet Hesenli · Ramal Damirli · Mehemmed Verdiyev
+Verified by: Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Müəllimi)
+Contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ · https://www.instagram.com/physics_teacher_azerbaijan
+
+Topics Covered
+DC Motor Operating Principle — Lorentz force on a current-carrying armature winding in a permanent magnetic field produces rotational torque
+Polarity Inversion — reversing the voltage polarity across the motor terminals reverses the direction of armature current and therefore the direction of rotation
+Manual Switching Methods — SPDT and DPDT switch configurations that physically swap the V+ and GND connections to the motor
+H-Bridge Circuit — four-switch topology (BJT transistors or MOSFETs) enabling full electronic control of forward, reverse, brake, and coast modes
+H-Bridge Switch States — truth table mapping each combination of switch states to motor behaviour (CW, CCW, brake short, coast)
+Flyback Diodes — freewheeling diodes placed across each switch to clamp inductive voltage spikes generated when motor current is interrupted
+PWM Speed Control — combining H-bridge direction control with pulse-width modulation on the enable signal to achieve variable-speed bidirectional motor drive
+Stall Current and Thermal Considerations — motor stall current can be several times the running current; switch and driver IC selection must account for this
+Practical Lab Implementation — breadboard circuit assembly, current measurements in both rotation directions, and oscilloscope waveforms of the PWM signal
