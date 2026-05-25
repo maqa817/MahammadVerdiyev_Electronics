@@ -1,0 +1,20 @@
+Comprehensive Guide to Operational Amplifiers in Analog Electronics
+A detailed educational guide on operational amplifiers (op-amps) — covering their internal structure, ideal and real characteristics, feedback principles, and the most widely used circuit configurations in analog electronics.
+
+Authors: Hidayet Hesenli · Ramal Damirli · Mehemmed Verdiyev · Ferid Elekberov
+Verified by: Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Müəllimi)
+Contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/ · https://www.instagram.com/physics_teacher_azerbaijan
+
+Topics Covered
+What is an Op-Amp — a high-gain voltage amplifier with a differential input (V+ and V−) and a single-ended output
+Ideal Op-Amp Properties — infinite input impedance, zero output impedance, infinite open-loop gain, infinite bandwidth
+Internal Structure — differential input stage, intermediate voltage gain stage, and output buffer stage
+Open-Loop vs Closed-Loop Behaviour — how negative feedback transforms the op-amp from a comparator into a precision amplifier
+Inverting Amplifier — gain formula A_V = −R_f / R_in; output is amplified and phase-inverted by 180°
+Non-Inverting Amplifier — gain formula A_V = 1 + R_f / R_in; output in phase with input
+Voltage Follower (Unity Gain Buffer) — A_V = 1; used for impedance isolation between circuit stages
+Summing Amplifier — weighted addition of multiple input signals through individual input resistors
+Differentiator & Integrator — frequency-domain signal processing using capacitors in the feedback or input path
+Comparator Mode — op-amp without feedback operating as a threshold detector; output swings to rail
+Feedback Principles — negative feedback for gain stability, linearity, and bandwidth extension; positive feedback for oscillators and Schmitt triggers
+Practical Applications — audio amplifiers, signal conditioning, ADC input drivers, active filters, instrumentation amplifiers
